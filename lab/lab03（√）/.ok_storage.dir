@@ -1,0 +1,5 @@
+'unique_digits-correct', (0, 66)
+'ordered_digits-correct', (512, 66)
+'make_repeater-correct', (1024, 66)
+'apply_twice-correct', (1536, 66)
+'protected_secret-correct', (2048, 66)
